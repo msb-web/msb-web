@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Shamakdum Bakul</h1>
-<h3 align="center">A passionate frontend developer from InI create modern, responsive, and user-friendly websites that help businesses grow online. From design to development, I deliver clean, professional, and high-performing sites tailored to your brand and goals.dia</h3>
+<img scr="https://i.ibb.co.com/LX7Bc3vb/1111.jpg">
+<h3 align="center">A passionate frontend developer from InI create modern, responsive, and user-friendly websites that help businesses grow online. From design to development, I deliver clean, professional, and high-performing sites tailored to your brand and goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msb-web&label=Profile%20views&color=0e75b6&style=flat" alt="msb-web" /> </p>
 
