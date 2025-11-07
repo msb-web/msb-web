@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co.com/LX7Bc3vb/1111.jpg">
-<h3 align="center">Designing websites that work beautifully.</h3>
+<h3 align="center">I’m a professional Web Designer and Developer. I create clean, modern, and fully responsive websites using HTML, CSS, JavaScript, Bootstrap, and Figma. I'm helping businesses build a strong and engaging online presence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msb-web&label=Profile%20views&color=0e75b6&style=flat" alt="msb-web" /> </p>
 
