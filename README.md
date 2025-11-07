@@ -1,16 +1,29 @@
 <img src="https://i.ibb.co.com/LX7Bc3vb/1111.jpg">
-<h3 align="center">A passionate frontend developer from InI create modern, responsive, and user-friendly websites that help businesses grow online. From design to development, I deliver clean, professional, and high-performing sites tailored to your brand and goals.</h3>
+<h3 align="center">Designing websites that work beautifully.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msb-web&label=Profile%20views&color=0e75b6&style=flat" alt="msb-web" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msb-web" alt="msb-web" /></a> </p>
 
-- 🔭 I’m currently working on **Website Development & Designer**
+- 🔭 I’m currently working on [Freelancer.com](https://www.freelancer.com.bd/u/bakulseo)
 
-- 👯 I’m looking to collaborate on **I create modern, responsive, and user-friendly websites that help businesses grow online. From design to development, I deliver clean, professional, and high-performing sites tailored to your brand and goals.**
+- 🌱 I’m currently learning **CSS,paython,Bootstrap**
+
+- 👯 I’m looking to collaborate on **thml,css,javacript,jquery**
+
+- 🤝 I’m looking for help with **Website Design**
+
+- 👨‍💻 All of my projects are available at [https://github.com/msb-web](https://github.com/msb-web)
+
+- 💬 Ask me about **Website Design & Development**
+
+- 📫 How to reach me **freelancerbakul90@gmail.com**
+
+- ⚡ Fun fact **Code Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@shamakdum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shamakdum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
